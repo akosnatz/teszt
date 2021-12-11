@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":355,"indent":0,"parameters":["if(TouchInput.isTriggered()){"]},{"code":655,"indent":0,"parameters":["this.wait(30);"]},{"code":655,"indent":0,"parameters":[""]},{"code":655,"indent":0,"parameters":["$gameScreen.showPicture($gameVariables.value(5), \"_Cut\", 0, $gameVariables.value(1) - 12, 273, 100, 100, 255, 0)"]},{"code":655,"indent":0,"parameters":["$gameVariables.setValue(5,$gameVariables.value(5)+1);"]},{"code":655,"indent":0,"parameters":[""]},{"code":655,"indent":0,"parameters":["if($gameVariables.value(5) > 4){"]},{"code":655,"indent":0,"parameters":["$gameMap.event(7).start();"]},{"code":655,"indent":0,"parameters":["//$gameMessage.add($gameVariables.value(5));"]},{"code":655,"indent":0,"parameters":["}"]},{"code":655,"indent":0,"parameters":["}"]},{"code":0,"indent":0,"parameters":[]}],"name":"Cutting","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
